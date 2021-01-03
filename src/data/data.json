@@ -1,0 +1,120 @@
+{
+    "Header": {
+
+        "title": "Freeman | Art Company",
+        "subheader": "art. democratized.",
+        "paragraph": "Freeman Art Company provides a platform whereby collectors are free to try new pieces, either for fun, or in search of a purchase. As for the artists, FAC allows you to earn more consistent income while exposing you to more customers and metrics to grow your brand."
+
+    },
+    "About": {
+        "paragraph": "Freeman Art Company is a fine art logistics platform connecting artists to collectors in a way that supports rising artists while exposing the community to the arts. We use technology to match collectors with artists they will find appealing, and provide a logistics platform that allows for a subscription-based payment structure.",
+        "subparagraph":"Our mission is to revolutionize how local art is financed and supported. For the collector, their home becomes a gallery, providing new experiences year round. For the artist, their phones become a tool to earn monthly income."
+    },
+    "Services": [{
+            "icon": "fa fa-key",
+            "name": "Turnkey Service",
+            "text": "We handle everything: curation, delivery, installation, rotation."
+        },
+        {
+            "icon": "fa fa-map-marker",
+            "name": "Local Art",
+            "text": "Art is from local artists and promotes community."
+        },
+        {
+            "icon": "fa fa-group",
+            "name": "Work Spaces",
+            "text": "Quality art for decorating a home office or your brick and mortar."
+        },
+        {
+            "icon": "fa fa-undo",
+            "name": "Dynamic Spaces",
+            "text": "Rotate art as often as monthly, change styles or dig deeper."
+        },
+        {
+            "icon": "fa fa-picture-o",
+            "name": "Large Collection",
+            "text": "Our collection has enough art to last a lifetime, with pieces worth a lifetime."
+        },
+        {
+            "icon": "fa fa-dollar",
+            "name": "Flexible Pricing",
+            "text": "We offer both originals as well as prints to accommodate all businesses."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "phone": "+1 719 339 5617",
+        "email": "freemanartcompany@gmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-paint-brush",
+            "title": "Micro-Entrepreneurs",
+            "text": "Our platform provides you with the tools that will help you make a living from what you love."
+        },
+        {
+            "icon": "fa fa-credit-card",
+            "title": "Monthly Income",
+            "text": "Subscriptions to your art are paid monthly. Collectors can even pay over-time."
+        },
+        {
+            "icon": "fa fa-upload",
+            "title": "Hosting Gallery",
+            "text": "We provide you with a personalized gallery and profile, it's just as easy as logging in."
+        }
+    ]
+}

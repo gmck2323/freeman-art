@@ -9,10 +9,9 @@ export class Contact extends Component {
             <div className="col-md-8">
               <div className="row">
                 <div className="section-title">
-                  <h2>Get In Touch</h2>
+                  <h2>Get Started</h2>
                   <p>
-                    Please fill out the form below to send us an email and we
-                    will get back to you as soon as possible.
+                    Get first three months on the app for free. We hate spam as much as you do. You will only receive confirmation and the sign up for the app. 
                   </p>
                 </div>
                 <form name="sentMessage" id="contactForm" noValidate>
@@ -21,15 +20,23 @@ export class Contact extends Component {
                       <div className="form-group">
                         <input
                           type="text"
-                          id="name"
+                          id="first-name"
                           className="form-control"
-                          placeholder="Name"
+                          placeholder="First Name"
                           required="required"
                         />
                         <p className="help-block text-danger"></p>
                       </div>
-                    </div>
-                    <div className="col-md-6">
+                      <div className="form-group">
+                        <input
+                          type="text"
+                          id="last-name"
+                          className="form-control"
+                          placeholder="Last Name"
+                          required="required"
+                        />
+                        <p className="help-block text-danger"></p>
+                      </div>
                       <div className="form-group">
                         <input
                           type="email"
@@ -42,7 +49,7 @@ export class Contact extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="form-group">
+                  {/* <div className="form-group">
                     <textarea
                       name="message"
                       id="message"
@@ -52,10 +59,10 @@ export class Contact extends Component {
                       required
                     ></textarea>
                     <p className="help-block text-danger"></p>
-                  </div>
+                  </div> */}
                   <div id="success"></div>
                   <button type="submit" className="btn btn-custom btn-lg">
-                    Send Message
+                    Sign Up
                   </button>
                 </form>
               </div>

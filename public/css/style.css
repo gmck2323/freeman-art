@@ -211,12 +211,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h2 {
 	font-family: 'Raleway', sans-serif;
-	color: #fff;
+	color: #d3d3d3 ;
 	font-size: 32px;
-	font-weight: 700;
-	text-transform: lowercase;
+	font-weight: 500;
+	text-transform: capitalize;
 	margin-top: 0;
-	margin-bottom: 10px;
+	margin-bottom: 50px;
 }
 .intro h2 span {
 	font-weight: 800;
@@ -225,14 +225,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro p {
 	color: #fff;
 	font-size: 22px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 350px;
-	padding-bottom: 200px;
+	padding-top: 200px;
+	padding-bottom: 100px;
 	text-align: center;
 }
 /* Features Section */
@@ -262,6 +262,7 @@ header .intro-text {
 }
 #about h2 {
 	position: relative;
+	margin-top: 55px;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
 }
@@ -290,10 +291,9 @@ header .intro-text {
 }
 #about img {
 	width: 520px;
-	margin-top: 10px;
 	background: #fff;
 	border-right: 0;
-	box-shadow: 0 0 50px rgba(0,0,0,0.06);
+	/* box-shadow: 0 0 50px rgba(0,0,0,0.06); */
 }
 #about p {
 	line-height: 24px;

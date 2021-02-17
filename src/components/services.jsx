@@ -8,7 +8,7 @@ export class Services extends Component {
           <div className="section-title">
             <h2>What We Do</h2>
             <p>
-              By connecting local businesses with local artists, we equip the community to support each other through art.
+              Social platform. Forum feed. Innovative store. Unleash your potential.
             </p>
           </div>
           <div className="row">

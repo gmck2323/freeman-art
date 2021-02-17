@@ -2,43 +2,43 @@
     "Header": {
 
         "title": "Freeman | Art Company",
-        "subheader": "art. democratized.",
-        "paragraph": "Freeman Art Company provides a platform whereby collectors are free to try new pieces, either for fun, or in search of a purchase. As for the artists, FAC allows you to earn more consistent income while exposing you to more customers and metrics to grow your brand."
+        "subheader": "The Modern Way to Gallery",
+        "paragraph": "Freeman Art Company is an art gallery designed for the modern \"artrepenuer.\" Discover more ways to market your works, build your brand, and establish yourself amongst peers."
 
     },
     "About": {
-        "paragraph": "Freeman Art Company is a fine art logistics platform connecting artists to collectors in a way that supports rising artists while exposing the community to the arts. We use technology to match collectors with artists they will find appealing, and provide a logistics platform that allows for a subscription-based payment structure.",
-        "subparagraph":"Our mission is to revolutionize how local art is financed and supported. For the collector, their home becomes a gallery, providing new experiences year round. For the artist, their phones become a tool to earn monthly income."
+        "paragraph": "Freeman Art Company is an art logistics platform connecting artists to collectors in a way that supports rising artists while exposing the community to the arts. We use technology to elevate the scope and magnitude of your ability.",
+        "subparagraph":"Our mission is to humanize art so that all may enjoy this beautiful part of life. We do this by revolutinizing how art is pucharsed, and how artists connect with collectors and their peers alike. For the collector, their home becomes a gallery, providing new experiences year round. For the artist, their phones become a tool to earn monthly income."
     },
     "Services": [{
-            "icon": "fa fa-key",
-            "name": "Turnkey Service",
-            "text": "We handle everything: curation, delivery, installation, rotation."
+            "icon": "fa fa-heart",
+            "name": "Earn through likes",
+            "text": "Every \"like\" earned through your content, you earn money."
         },
         {
-            "icon": "fa fa-map-marker",
-            "name": "Local Art",
-            "text": "Art is from local artists and promotes community."
+            "icon": "fa fa-briefcase",
+            "name": "The business partner you need.",
+            "text": "You focus on the art and lifestyle, we handle the boring business stuff."
         },
         {
             "icon": "fa fa-group",
-            "name": "Work Spaces",
-            "text": "Quality art for decorating a home office or your brick and mortar."
+            "name": "Connect with your peers",
+            "text": "Establish ethos, form partnerships, get connected through the form."
         },
         {
             "icon": "fa fa-undo",
-            "name": "Dynamic Spaces",
-            "text": "Rotate art as often as monthly, change styles or dig deeper."
+            "name": "Rotate",
+            "text": "Why limit your sales to purchases? How about rotating galleries?"
         },
         {
-            "icon": "fa fa-picture-o",
-            "name": "Large Collection",
-            "text": "Our collection has enough art to last a lifetime, with pieces worth a lifetime."
+            "icon": "fa fa-line-chart",
+            "name": "Finance your art, keep the interests",
+            "text": "Artists have the option to finance their art. You choose the rate, term length, safety deposit."
         },
         {
             "icon": "fa fa-dollar",
-            "name": "Flexible Pricing",
-            "text": "We offer both originals as well as prints to accommodate all businesses."
+            "name": "Sell art, keep the money",
+            "text": "Finally! A gallery that gives you exposure at only 5% commission"
         }
 
 

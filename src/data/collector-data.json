@@ -1,0 +1,120 @@
+{
+    "Header": {
+
+        "title": "Freeman | Art Company",
+        "subheader": "The Modern Way to Gallery",
+        "paragraph": "FAC is an art logistics platform connecting collectors with artists in a modern way. Our mission is to tear down the barriers preventing people from experiencing art and supporting their passion - revolutionizing how art is exchanged, and how collectors engage with artists and fellow collectors."
+
+    },
+    "About": {
+        "paragraph": "Freeman Art Company is an art logistics platform connecting artists to collectors in a way that supports rising artists while exposing the community to the arts. We use technology to elevate the scope and magnitude of your ability.",
+        "subparagraph":"Our mission is to humanize art so that all may enjoy this beautiful part of life. We do this by revolutinizing how art is pucharsed, and how artists connect with collectors and their peers alike. For the collector, their home becomes a gallery, providing new experiences year round. For the artist, their phones become a tool to earn monthly income."
+    },
+    "Services": [{
+            "icon": "fa fa-child",
+            "name": "Lifestyle",
+            "text": "Find artists based on their lifestyle (hobby, alma mater, religion, etc.)"
+        },
+        {
+            "icon": "fa fa-heart",
+            "name": "Personality Matching",
+            "text": "We connect you with artists based on similar personality results, as well as other collectors."
+        },
+        {
+            "icon": "fa fa-shopping-cart",
+            "name": "More Ways to Buy",
+            "text": "Why just stop at purchases? How about financing, rotating, auctioning, and commissions?"
+        },
+        {
+            "icon": "fa fa-group",
+            "name": "No Middleman",
+            "text": "Cheaper for you, more for the artists"
+        },
+        {
+            "icon": "fa fa-line-chart",
+            "name": "Blue Chip Fund",
+            "text": "Fractionalized ownership of investment grade art"
+        },
+        {
+            "icon": "fa fa-dollar",
+            "name": "Earn through Sales as a Collector",
+            "text": "Flip the script, now you can earn on your collection."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "phone": "+1 719 339 5617",
+        "email": "freemanartcompany@gmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-credit-card",
+            "title": "Lower Costs",
+            "text": "No more fees raising the price of art"
+        },
+        {
+            "icon": "fa fa-tablet",
+            "title": "Artist Feed Tailored for You",
+            "text": "No more clutter for finding paintings that speak to you"
+        },
+        {
+            "icon": "fa fa-globe",
+            "title": "Broader Selection",
+            "text": "Artists from all over. Go local or explore art from new areas"
+        }
+    ]
+}

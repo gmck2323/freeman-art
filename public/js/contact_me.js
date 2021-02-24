@@ -8,21 +8,26 @@ $(function() {
         submitSuccess: function($form, event) {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
-            var name = $("input#name").val();
+            var firstName = $("input#first-name").val();
+            var lastName = $("input#last-name").val();
             var email = $("input#email").val();
-            var message = $("textarea#message").val();
-            var firstName = name; // For Success/Failure Message
-            // Check for white space in name for Success/Fail message
-            if (firstName.indexOf(' ') >= 0) {
-                firstName = name.split(' ').slice(0, -1).join(' ');
+            var user = "artist"
+            if(window.location.href.includes("collectors")){
+                user = "collector"
             }
+            // var firstName = name; // For Success/Failure Message
+            // // Check for white space in name for Success/Fail message
+            // if (firstName.indexOf(' ') >= 0) {
+            //     firstName = name.split(' ').slice(0, -1).join(' ');
+            // }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "./api/users",
                 type: "POST",
                 data: {
-                    name: name,
+                    fistName: firstName,
+                    lastName: lastName,
                     email: email,
-                    message: message
+                    user : user
                 },
                 cache: false,
                 success: function() {
@@ -31,7 +36,7 @@ $(function() {
                     $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
                     $('#success > .alert-success')
-                        .append("<strong>Your message has been sent. </strong>");
+                        .append("<strong>Thanks for signing up! </strong>");
                     $('#success > .alert-success')
                         .append('</div>');
 

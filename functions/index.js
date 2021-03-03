@@ -1,5 +1,11 @@
 const functions = require("firebase-functions");
 
+const express = require('express');
+const cors = require('cors');
+
+const admin = require('firebase-admin');
+admin.initializeApp();
+
 // // Create and Deploy Your First Cloud Functions
 // // https://firebase.google.com/docs/functions/write-firebase-functions
 //
@@ -7,3 +13,15 @@ const functions = require("firebase-functions");
 //   functions.logger.info("Hello logs!", {structuredData: true});
 //   response.send("Hello from Firebase!");
 // });
+
+const app = express();
+
+app.use(cors ({ origin: true}));
+
+app.post('/api/users', async (req, res) => {
+    const user = req.body;
+    await admin.firestore().collection('users').add(user);
+    res.status(200).send();
+})
+
+exports.user = functions.https.onRequest(app)

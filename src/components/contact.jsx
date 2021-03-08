@@ -11,7 +11,7 @@ export class Contact extends Component {
                 <div className="section-title">
                   <h2>Get Started</h2>
                   <p>
-                    Get first three months on the app for free. We hate spam as much as you do. You will only receive confirmation and the sign up for the app. 
+                    Get exclusive acces to the app for free. We hate spam as much as you do. You will only receive confirmation and the sign up for the app. 
                   </p>
                 </div>
                 <form name="sentMessage" id="contactForm" noValidate>

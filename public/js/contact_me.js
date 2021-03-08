@@ -21,7 +21,7 @@ $(function() {
             //     firstName = name.split(' ').slice(0, -1).join(' ');
             // }
             $.ajax({
-                url: "./api/users",
+                url: "https://us-central1-freeman-art-company.cloudfunctions.net/user",
                 type: "POST",
                 data: {
                     firstName: firstName,

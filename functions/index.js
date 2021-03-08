@@ -18,7 +18,7 @@ const app = express();
 
 app.use(cors ({ origin: true}));
 
-app.post('/api/users', async (req, res) => {
+app.post('/', async (req, res) => {
     const user = req.body;
     await admin.firestore().collection('users').add(user);
     res.status(200).send();

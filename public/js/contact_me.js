@@ -24,7 +24,7 @@ $(function() {
                 url: "./api/users",
                 type: "POST",
                 data: {
-                    fistName: firstName,
+                    firstName: firstName,
                     lastName: lastName,
                     email: email,
                     user : user
